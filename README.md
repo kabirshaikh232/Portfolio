@@ -24,6 +24,6 @@ You can view the live version of the website here:
 
 I'm always open to connecting and discussing new opportunities. Feel free to reach out!
 
-  * **Email:** `shubhamatugade070@gmail.com`
+  * **Email:** `kabirshaikh232@gmail.com`
   * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/kabirshaikh232/)
   * **GitHub:** [github.com/kabirshaikh232](https://github.com/kabirshaikh232)
