@@ -1,6 +1,6 @@
 # My Personal Portfolio Website
 
-Welcome to the official repository for my personal portfolio website, live at [shubhamatugade.github.io](https://shubhamatugade.github.io/). This project showcases my skills, projects, and professional journey.
+Welcome to the official repository for my personal portfolio website, live at [kabirshaikh232.github.io](https://kabirshaikh232.github.io/Portfolio/). This project showcases my skills, projects, and professional journey.
 
 ## 🌟 About This Project
 
@@ -9,7 +9,7 @@ This portfolio was built from scratch to serve as a central hub for my work. It 
 ## 🚀 Live Demo
 
 You can view the live version of the website here:
-**[https://shubhamatugade.github.io/](https://shubhamatugade.github.io/)**
+**[https://kabirshaikh232.github.io/Portfolio/](https://kabirshaikh232.github.io/Portfolio/)**
 
 ## ✨ Features
 
@@ -24,6 +24,6 @@ You can view the live version of the website here:
 
 I'm always open to connecting and discussing new opportunities. Feel free to reach out!
 
-  * **Email:** `shubhamatugade070@gmail.com`
-  * **LinkedIn:** [linkedin.com/in/your-profile]([https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/shubham-atugade-b70a71249/))
-  * **GitHub:** [github.com/shubhamatugade](https://www.google.com/search?q=https://github.com/shubhamatugade)
+  * **Email:** `kabirshaikh232@gmail.com`
+  * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/kabirshaikh232/)
+  * **GitHub:** [github.com/kabirshaikh232](https://github.com/kabirshaikh232)
